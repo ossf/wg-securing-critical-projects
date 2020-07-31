@@ -35,13 +35,14 @@ provided by the OSSF Technical Advisory Committee
 
 TODO: Add info on meeting schedule and calendar invitations
 
-#### Notes and Agendas
-
-TODO: Add links to notes and agendas
-
 ### Communications
 
-TODO: Add links to slack channel and email lists
+We have a public email list available here: https://groups.google.com/forum/#!forum/ossf-securing-critical-projects
+
+#### Notes and Agendas
+
+Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1DkzrMYVA7iA-REOec-z6w4J0RZ6LISho9p7nYfX-uGc/edit#).
+
 
 ## Governance
 
