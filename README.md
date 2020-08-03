@@ -37,7 +37,7 @@ TODO: Add info on meeting schedule and calendar invitations
 
 ### Communications
 
-We have a public email list available here: https://groups.google.com/forum/#!forum/ossf-securing-critical-projects
+We have a public email list available here: https://groups.google.com/g/wg-securing-critical-projects
 
 #### Notes and Agendas
 
