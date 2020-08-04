@@ -41,7 +41,7 @@ We have a public email list available here: https://groups.google.com/g/wg-secur
 
 #### Notes and Agendas
 
-Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1DkzrMYVA7iA-REOec-z6w4J0RZ6LISho9p7nYfX-uGc/edit#).
+Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit). (Join the group above to edit.)
 
 
 ## Governance
