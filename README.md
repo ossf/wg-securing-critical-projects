@@ -8,6 +8,8 @@ and [Governance](#governance) section describes how our operations are consisten
 
 ## Motivation
 
+<img align="right" src="https://imgs.xkcd.com/comics/dependency.png">
+
 Open Source Software has long suffered from a "tragedy of the commons" problem.
 Organizations large and small make use of OSS every day, but many projects are struggling for the time, resources and attention they need.
 
