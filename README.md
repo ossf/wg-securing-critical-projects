@@ -41,13 +41,13 @@ Meetings will all be published on the [OSSF Community Calendar](https://calendar
 
 ### Communications
 
-We have a public email list available here: https://groups.google.com/g/wg-securing-critical-projects
+We have a [public email list](https://lists.openssf.org/g/openssf-wg-securing-crit-prjs). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 
 #### Notes and Agendas
 
 Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit). (Join the group above to edit.)
 
-Meeting Recordings are available on Youtube at: https://www.youtube.com/playlist?list=PLVl2hFL_zAh-cAfx6y4k-fODfbHeQzb_O.
+Meeting Recordings are available on YouTube at: https://www.youtube.com/playlist?list=PLVl2hFL_zAh-cAfx6y4k-fODfbHeQzb_O.
 
 
 ## Governance
