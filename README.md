@@ -49,7 +49,11 @@ Meeting Notes and Agendas are available on [Google Drive](https://docs.google.co
 
 Meeting Recordings are available on Youtube at: https://www.youtube.com/playlist?list=PLVl2hFL_zAh-cAfx6y4k-fODfbHeQzb_O.
 
-
 ## Governance
 
 Full details of process and roles are linked from [governance README](/governance).
+
+## Identifying Critical Projects
+
+[See information on identifying critical projects](./identifying-critical-projects.md)
+
