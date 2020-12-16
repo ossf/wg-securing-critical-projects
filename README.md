@@ -35,8 +35,6 @@ provided by the OSSF Technical Advisory Committee
 
 ### Meetings
 
-The first meeting is Thursday, August 27th at 9AM Pacific.
-
 Meetings will all be published on the [OSSF Community Calendar](https://calendar.google.com/calendar/r?cid=s63voefhp5i9pfltb5q67ngpes@group.calendar.google.com).
 
 ### Communications
