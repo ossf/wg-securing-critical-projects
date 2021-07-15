@@ -1,6 +1,6 @@
 ## Research and Publications ## 
 
-The Securing Critical Projects working group encourages the creation, discussion, and dissemination of applicable research. Research and Publication presentations and discussions are welcome. 
+The Securing Critical Projects working group encourages the creation, discussion, and dissemination of applicable research. Presentations and discussions of research are welcome in the working group. 
 
 A sample of Research and Publications considered by the working group can be found [here](https://github.com/Amir-Montazery/wg-securing-critical-projects/blob/main/Research-and-Publications/identifying-critical-projects.md).
 
