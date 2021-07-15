@@ -53,5 +53,5 @@ Full details of process and roles are linked from [governance README](/governanc
 
 ## Identifying Critical Projects
 
-[See information on identifying critical projects](./identifying-critical-projects.md)
+[See information on identifying critical projects](.Research-and-Publications/identifying-critical-projects.md)
 
