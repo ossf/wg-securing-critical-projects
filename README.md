@@ -25,7 +25,12 @@ this help available.
 
 ### Goals
 
-### Non Goals
+To the best of our efforts, the goals of the working group are:
+
+1. Identify projects critical to the open-source supply chain. 
+2. Secure projects critical to the open-souce supply chain.
+3. Provide tools and novel solutions for critical open-source projects. 
+
 
 ## Operations
 
