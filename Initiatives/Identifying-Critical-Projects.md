@@ -20,7 +20,7 @@ This research has resulted in the release of a [preliminary report](https://www.
   ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf)
   (you can see the [Hacker News Discussion](https://news.ycombinator.com/item?id=25381397))
 
-The Open Source Project Criticality Score has been used to generate a number of lists of open source projects that had the highest criticality scores. The [data generated](https://commondatastorage.googleapis.com/ossf-criticality-score/index.html)from the algorithm ranks the projects with the highest criticality scores by: All (all-time top 200), C top 200, C++ top 200, C# top 200, go top 200, java top 200, and many others. 
+The Open Source Project Criticality Score has been used to generate a number of lists of open source projects that had the highest criticality scores. The [data generated](https://commondatastorage.googleapis.com/ossf-criticality-score/index.html) from the algorithm ranks the projects with the highest criticality scores by: All (all-time top 200), C top 200, C++ top 200, C# top 200, go top 200, java top 200, and many others. 
 
 * [Core Infrastructure Initiative (CII) Open Source Software Census II Strategy](https://www.ida.org/research-and-publications/publications/all/c/co/core-infrastructure-initiative-cii-open-source-software-census-ii-strategy)
   by David A. Wheeler & Jason N. Dossett, October 2017
