@@ -41,4 +41,4 @@ OSTIF, the Open Source Technology Improvement Fund, Inc is an independent non-pr
 
 The Managed Audit Program was pitched to the Securing Critical Projects workgroup due to the relevance of OSTIF's work in improving the security of critical projects effectively. Via the OpenSSF TAC and Governing Board, OpenSSF approved a pilot grant to improve the security of **php symfony**, a critical and widely used web application framework in September 2021. OSTIF used this grant along with grants secured directly from organizations to launch the Managed Audit Program. 
 
-More information on the Managed Audut Program can be found [here](https://docs.google.com/spreadsheets/d/1oytKuD7UCX6nDXWQMr6ZgYYgap_SH_JVBof5gNrgSxo/edit#gid=0)
+More information on the Managed Audit Program can be found [here](https://docs.google.com/spreadsheets/d/1oytKuD7UCX6nDXWQMr6ZgYYgap_SH_JVBof5gNrgSxo/edit#gid=0)
