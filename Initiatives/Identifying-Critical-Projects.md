@@ -1,6 +1,6 @@
 # Identifying Critical Projects
 
-Since its first meeting on August 27,2020, the Securing Critical Projects workgroup has encouraged participants, advocates, and the greater open source community to present and discuss research related to Security and Open Source Projects, Supply Chains, and ecosystems. As a result of that research and associated discussions, as well as proposed solutions to Secure Critical Projects, the workgroup curated this document; focused on identifying projects deemed "critical" to the open source ecosystem. 
+Since its first meeting on August 27, 2020, the Securing Critical Projects workgroup has encouraged participants, advocates, and the greater open source community to present and discuss research related to Security and Open Source Projects, Supply Chains, and ecosystems. As a result of that research and associated discussions, as well as proposed solutions to Secure Critical Projects, the workgroup curated this document; focused on identifying projects deemed "critical" to the open source ecosystem. 
 
 # List of Identified Projects
 
