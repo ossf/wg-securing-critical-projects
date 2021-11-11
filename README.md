@@ -25,7 +25,12 @@ this help available.
 
 ### Goals
 
-### Non Goals
+To the best of our efforts, the goals of the working group are:
+
+1. Identify projects critical to the open-source supply chain. 
+2. Secure projects critical to the open-souce supply chain.
+3. Provide tools and novel solutions for critical open-source projects. 
+
 
 ## Operations
 
@@ -53,5 +58,5 @@ Full details of process and roles are linked from [governance README](/governanc
 
 ## Identifying Critical Projects
 
-[See information on identifying critical projects](./identifying-critical-projects.md)
+[See information on identifying critical projects](https://github.com/Amir-Montazery/wg-securing-critical-projects/blob/main/Research-and-Publications/identifying-critical-projects.md)
 
