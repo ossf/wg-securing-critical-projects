@@ -72,6 +72,8 @@ Meeting Recordings are available on Youtube at: https://www.youtube.com/playlist
 
 ## Governance
 
+This group is chaired by Amir Montazery (OSTIF) and Jeff Mendoza (Google).
+
 Full details of process and roles are linked from [governance README](/governance).
 
 ## Identifying Critical Projects
