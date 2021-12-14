@@ -60,7 +60,9 @@ Meetings will all be published on the [OSSF Community Calendar](https://calendar
 
 ### Communications
 
-We have a public email list available here: https://groups.google.com/g/wg-securing-critical-projects
+We have a public email list available here: https://lists.openssf.org/g/openssf-wg-securing-crit-prjs
+
+You can also join us for day-to-day conversations on slack: https://openssf.slack.com/messages/wg_securing_critical_projects
 
 #### Notes and Agendas
 
