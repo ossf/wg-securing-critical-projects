@@ -74,5 +74,5 @@ Full details of process and roles are linked from [governance README](/governanc
 
 ## Identifying Critical Projects
 
-[See information on identifying critical projects](https://github.com/Amir-Montazery/wg-securing-critical-projects/blob/main/Research-and-Publications/identifying-critical-projects.md)
+[See information on identifying critical projects](https://github.com/ossf/wg-securing-critical-projects/blob/main/Initiatives/Identifying-Critical-Projects.md)
 
