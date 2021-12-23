@@ -36,7 +36,7 @@ The Open Source Project Criticality Score has been used to generate a number of 
   by Frank Nagle, David A. Wheeler, Hila Lifshitz-Assaf, Haylee Ham, and Jennifer L. Hoffman,
   The Linux Foundation & The Laboratory for Innovation Science at Harvard
 
-## Proposed Solution: Managed Audit Program
+* Open Source Technology Improvement Fund, Inc ([OSTIF](http://ostif.org) Project List and Managed Audit Program
 
 OSTIF, the Open Source Technology Improvement Fund, Inc is an independent non-profit that specializes in facilitating security engagements for open source projects. OSTIF [strategically partnered](https://www.linuxfoundation.org/press-release/new-collaboration-brings-increased-open-source-security-support-and-assurances-to-software-developers/) with Linux Foundation in January 2020 and contributes to the OpenSSF via the Securing Critical Projects and Identifying Security Threats working group.  Responsible for over 3,500 hours of independent review, 147 security fixes and improvements, and 26 Severe Bug Patches, OSTIF compiled a number of data points, including results from the Criticality Score and Census Program II referenced above, to generate a candidate list of 25 Critical Projects that could benefit from OSTIF's work. 
 
