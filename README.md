@@ -4,8 +4,6 @@ This charter describes operations as an [OSSF Technical Initiative](https://gith
 The [Focus](#focus) section below describes what is in and out of scope,
 and [Governance](#governance) section describes how our operations are consistent with OSSF policies with links to more detailed documents.
 
-**Mission:** TODO
-
 ## Motivation
 
 <img align="right" src="https://imgs.xkcd.com/comics/dependency.png">
