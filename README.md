@@ -6,7 +6,10 @@ and [Governance](#governance) section describes how our operations are consisten
 
 ## Motivation
 
-<img align="right" src="https://imgs.xkcd.com/comics/dependency.png">
+<table align="right">
+  <tr><td><img align="right" src="https://imgs.xkcd.com/comics/dependency.png"></td></tr>
+  <tr><td><a href="https://xkcd.com/2347">Source</a>. Randall Munroe. Licensed under <a href="https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a></td></tr>
+</table>
 
 Open Source Software has long suffered from a "tragedy of the commons" problem.
 Organizations large and small make use of OSS every day, but many projects are struggling for the time, resources and attention they need.
