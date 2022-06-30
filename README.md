@@ -111,7 +111,9 @@ Meetings will all be published on the [OSSF Community Calendar](https://calendar
 
 ### Communications
 
-We have a public email list available here: https://groups.google.com/g/wg-securing-critical-projects
+We have a public email list available here: https://lists.openssf.org/g/openssf-wg-securing-crit-prjs
+
+You can also join us for day-to-day conversations on slack: https://openssf.slack.com/messages/wg_securing_critical_projects
 
 #### Notes and Agendas
 
@@ -120,6 +122,8 @@ Meeting Notes and Agendas are available on [Google Drive](https://docs.google.co
 Meeting Recordings are available on Youtube at: https://www.youtube.com/playlist?list=PLVl2hFL_zAh-cAfx6y4k-fODfbHeQzb_O.
 
 ## Governance
+
+This group is chaired by Amir Montazery (OSTIF) and Jeff Mendoza (Google).
 
 Full details of process and roles are linked from [governance README](/governance).
 
