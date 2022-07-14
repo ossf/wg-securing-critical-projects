@@ -41,7 +41,7 @@ To the best of our efforts, the goals of the working group are:
     * Lead: Caleb Brown
 * [Harvard research](https://www.coreinfrastructure.org/programs/census-program-ii/)
 * [package-feeds](https://github.com/ossf/package-feeds)
-    * Lead: ??
+    * Lead: Caleb Brown
 * [package-analysis](https://github.com/ossf/package-analysis)
     * Lead: Caleb Brown
 * [allstar](https://github.com/ossf/allstar)
