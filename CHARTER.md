@@ -30,7 +30,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 - d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether a OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
 
-- e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available in the Technical Initiative repository.
+- e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available and following a two week public comment period to solicit community feedback in the Technical Initiative repository.
 
 - f. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.  **The TSC Chair, or any other TSC member so designated by the TSC, will serve as the Technical Initiative’s voting representative on the OpenSSF’s Technical Advisory Council (the "TAC").
 
