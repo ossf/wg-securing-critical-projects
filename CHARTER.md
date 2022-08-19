@@ -12,13 +12,7 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
 - b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
 
-#### 2. Technical Steering Committee
-
-- a. The Technical Steering Committee (the "TSC") will be responsible for all oversight of the Technical Initiative. 
-
-- b. The TSC voting members are initially the Technical Initiative’s Maintainers. The Maintainers will be documented in the Technical Initiative repository. The TSC is responsible for determining the future process for defining voting members of the TSC, and any such alternative approach will also be documented appropriately.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. While all meetings are intended to be open to the public, the TSC reserves the right to make a given meeting closed to handle sensitive issues that arise.
-
-- c. The Technical Initiative generally will involve Collaborators and Contributors. The TSC may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented: 
+- c. Membership. The Technical Initiative generally will involve Collaborators and Contributors. The TSC may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented: 
 
    - i. Contributors include anyone in the technical community that contributes effort, ideas, code, documentation, or other artifacts to the Technical Initiative; 
 
@@ -28,13 +22,19 @@ This Technical Charter sets forth the responsibilities and procedures for techni
 
    - iv. Maintainers are the initial Collaborators defined at the creation of the Technical Initiative. The Maintainers will determine the process for selecting future Maintainers. A Maintainer may be removed by two-thirds approval of the other existing Maintainers, or a majority of the other existing Collaborators.
 
-- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether a OpenSSF member or not, so long as they abide by the terms of this Technical Charter. 
+- d. Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether a OpenSSF member or not, so long as they abide by the terms of this Technical Charter.
 
-- e. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available and following a two week public comment period to solicit community feedback in the Technical Initiative repository.
+#### 2. Technical Steering Committee
 
-- f. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.  **The TSC Chair, or any other TSC member so designated by the TSC, will serve as the Technical Initiative’s voting representative on the OpenSSF’s Technical Advisory Council (the "TAC").
+- a. The Technical Steering Committee (the "TSC") will be responsible for all oversight of the Technical Initiative. 
 
-- g. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Technical Initiative, which may include:
+- b. The TSC voting members are initially the Technical Initiative’s Maintainers. The Maintainers will be documented in the Technical Initiative repository. The TSC is responsible for determining the future process for defining voting members of the TSC, and any such alternative approach will also be documented appropriately.  Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. While all meetings are intended to be open to the public, the TSC reserves the right to make a given meeting closed to handle sensitive issues that arise.
+
+- c. The TSC may create, change, modify, or remove roles or their definitions, so long as the definitions of roles for the Technical Initiative are publicly available and following a two week public comment period to solicit community feedback in the Technical Initiative repository.
+
+- d. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.  **The TSC Chair, or any other TSC member so designated by the TSC, will serve as the Technical Initiative’s voting representative on the OpenSSF’s Technical Advisory Council (the "TAC").
+
+- e. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Technical Initiative, which may include:
 
    - i. coordinating the direction of the Technical Initiative;
 
