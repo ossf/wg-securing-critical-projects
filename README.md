@@ -32,14 +32,25 @@ To the best of our efforts, the goals of the working group are:
 2. Secure those projects.
 
 
-## Current WG projects
+## Current WG SIGs/Projects
 
 * [Securing Critical Projects: List of Critical Open Source Projects, Components, and Frameworks](https://docs.google.com/spreadsheets/d/1ONZ4qeMq8xmeCHX03lIgIYE4MEXVfVL6oj05lbuXTDM/edit) - current version
+    * Leads: Amir Montazery, Jacques Chester, Julia Ferraioli
+    * Contributors: David Wheeler, Caleb Brown, Michael Scovetta, Georg Kunz
 * [criticality_score](https://github.com/ossf/criticality_score) - this attempts to estimate criticality using the algorithm described in ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf); you can see the [Hacker News Discussion](https://news.ycombinator.com/item?id=25381397). A known challenge is that it emphasizes activity, and some critical projects aren't active.
+    * Lead: Caleb Brown
 * [Harvard research](https://www.coreinfrastructure.org/programs/census-program-ii/)
-* [package-feeds](https://github.com/ossf/package-feeds) / [package-analysis](https://github.com/ossf/package-analysis)
+* [package-feeds](https://github.com/ossf/package-feeds)
+    * Lead: Caleb Brown
+* [package-analysis](https://github.com/ossf/package-analysis)
+    * Lead: Caleb Brown
 * [allstar](https://github.com/ossf/allstar)
+    * Lead: Jeff Mendoza
 
+### Role Definitions
+
+* Lead: Drives work forward
+* Contributor: Available for taking work and completing
 
 ## How were critical OSS projects selected?
 
