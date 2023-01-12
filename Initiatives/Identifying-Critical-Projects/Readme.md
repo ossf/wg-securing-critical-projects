@@ -4,7 +4,8 @@ Since its first meeting on August 27, 2020, the Securing Critical Projects workg
 
 # List of Identified Projects
 
-The list of Identified Critical Projects can be found here: https://docs.google.com/spreadsheets/d/1ONZ4qeMq8xmeCHX03lIgIYE4MEXVfVL6oj05lbuXTDM/edit#gid=0
+The list of Identified Critical Projects can be found here: 
+Version 1: https://docs.google.com/spreadsheets/d/1ONZ4qeMq8xmeCHX03lIgIYE4MEXVfVL6oj05lbuXTDM/edit#gid=0
 
 
 # Resources, Data Points, and Supporting Documentation
