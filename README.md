@@ -39,7 +39,7 @@ To the best of our efforts, the goals of the working group are:
     * Contributors: David Wheeler, Caleb Brown, Michael Scovetta, Georg Kunz
 * [criticality_score](https://github.com/ossf/criticality_score) - this attempts to estimate criticality using the algorithm described in ["Quantifying Criticality" by Rob Pike](https://github.com/ossf/criticality_score/blob/main/Quantifying_criticality_algorithm.pdf); you can see the [Hacker News Discussion](https://news.ycombinator.com/item?id=25381397). A known challenge is that it emphasizes activity, and some critical projects aren't active.
     * Lead: Caleb Brown
-* [Harvard research](https://www.coreinfrastructure.org/programs/census-program-ii/)
+* Harvard research - [Census II](https://www.linuxfoundation.org/research/census-ii-of-free-and-open-source-software-application-libraries) [Preliminary Census II](https://www.coreinfrastructure.org/programs/census-program-ii/)
 * [package-feeds](https://github.com/ossf/package-feeds)
     * Lead: Caleb Brown
 * [package-analysis](https://github.com/ossf/package-analysis)
