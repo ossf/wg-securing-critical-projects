@@ -24,7 +24,7 @@ this help available.
 
 ## Focus
 
-### Goals
+### Objective
 
 To the best of our efforts, the goals of the working group are:
 
@@ -32,7 +32,7 @@ To the best of our efforts, the goals of the working group are:
 2. Secure those projects.
 
 
-## Current WG SIGs/Projects
+## Current Work
 
 * [Securing Critical Projects: List of Critical Open Source Projects, Components, and Frameworks](https://docs.google.com/spreadsheets/d/1ONZ4qeMq8xmeCHX03lIgIYE4MEXVfVL6oj05lbuXTDM/edit) - current version
     * Leads: Amir Montazery and Julia Ferraioli
@@ -116,7 +116,7 @@ WG-Securing-Critical-Projects operations are consistent with standard operating 
 provided by the OSSF Technical Advisory Committee
 [TAC](https://github.com/ossf/tac).
 
-### Meetings
+### Meetings Times
 
 Meetings will all be published on the [OSSF Community Calendar](https://calendar.google.com/calendar/r?cid=s63voefhp5i9pfltb5q67ngpes@group.calendar.google.com).
 
@@ -126,7 +126,7 @@ We have a public email list available here: https://lists.openssf.org/g/openssf-
 
 You can also join us for day-to-day conversations on slack: https://openssf.slack.com/messages/wg_securing_critical_projects
 
-#### Notes and Agendas
+#### Meeting Notes
 
 Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit). (Join the group above to edit.)
 
@@ -142,7 +142,7 @@ Full details of process and roles are linked from [governance README](/governanc
 
 [See information on identifying critical projects](https://github.com/ossf/wg-securing-critical-projects/tree/main/Initiatives/Identifying-Critical-Projects)
 
-## Antitrust policy
+## Antitrust Policy Notice
 
 Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
 
