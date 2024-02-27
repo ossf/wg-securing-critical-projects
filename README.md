@@ -128,7 +128,7 @@ You can also join us for day-to-day conversations on slack: https://openssf.slac
 
 #### Meeting Notes
 
-Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1GFslP6elYCx27TUitdigDr1gsOItYkL0Vq7hTB9y4Lo/edit?usp=sharing). 
+Meeting Notes and Agendas are available on [Google Drive](https://docs.google.com/document/d/1JrKetG5zeDqUn9n7SKI3L0oR-S9k0r4YMHFcqhZ7WNU/). 
 
 Meeting Recordings are available on Youtube at: https://www.youtube.com/playlist?list=PLVl2hFL_zAh-cAfx6y4k-fODfbHeQzb_O.
 
