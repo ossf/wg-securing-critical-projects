@@ -28,9 +28,10 @@ this help available.
 
 To the best of our efforts, the goals of the working group are:
 
-1. Identify critical open source software (OSS) projects. 
+1. Identify critical open source software (OSS) projects.
 2. Secure those projects.
 
+For more details, see our [MVSR](/MVSR.md)
 
 ## Current Work
 
