@@ -45,8 +45,10 @@ For more details, see our [MVSR](/MVSR.md)
     * Lead: Caleb Brown
 * [package-analysis](https://github.com/ossf/package-analysis)
     * Lead: Caleb Brown
-* [Allstar](https://github.com/ossf/allstar)
-    * Lead: Jeff Mendoza
+
+## Former projects
+
+* [Allstar](https://github.com/ossf/allstar) is now a part of [OpenSSF Scorecard](https://scorecard.dev/)
 
 ### Role Definitions
 
